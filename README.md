@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-- 🎓 1st-year CSE student at **RUET**  
+- 🎓  CSE student at **RUET**  
 - 💡 Exploring the world of algorithms, AI, and robotics  
 - 🔭 Interested in solving problems & building real-world solutions  
 - 🎯 Dreaming big: building a tech startup in the next 4–5 years  
