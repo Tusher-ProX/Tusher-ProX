@@ -39,6 +39,7 @@
 - Data Structures & Algorithms  
 - AI & Machine Learning (beginner level)  
 - Git & GitHub
+- Web Development
 
 ---
 
