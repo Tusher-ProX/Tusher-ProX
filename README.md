@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm <span style="color:#00FFFF">Tusher</span></h1>
+<h1 align="center"> Hello! I'm <span style="color:#00FFFF">Tusher</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&multiline=true&lines=Passionate+Programmer;AI+%7C+ML+%7C+CP+Lover;CSE+Student+at+RUET;Always+Learning+Something+New!" alt="Typing SVG" />
@@ -10,11 +10,10 @@
 
 ---
 
-## 🎓 My Badges
+## My Badges
 
 <p>
   <img src="https://img.shields.io/badge/RUETian-%231DA1F2.svg?style=for-the-badge&logo=graduation-cap&logoColor=white&color=blue"/>
-  <img src="https://img.shields.io/badge/CSE%20Student-%2300C853.svg?style=for-the-badge&logo=code&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Based%20in-Rajshahi-orange?style=for-the-badge&logo=map&logoColor=white"/>
   <img src="https://img.shields.io/badge/Loves-Competitive%20Programming-red?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Future%20Goal-Tech%20Startup-purple?style=for-the-badge&logo=rocket&logoColor=white"/>
@@ -22,19 +21,19 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓  CSE student at **RUET**  
-- 💡 Exploring the world of algorithms, AI, and robotics  
-- 🔭 Interested in solving problems & building real-world solutions  
-- 🎯 Dreaming big: building a tech startup in the next 4–5 years  
-- 📍 Based in Rajshahi, Bangladesh
+- CSE student at **RUET**  
+- Exploring the world of algorithms, AI, and robotics  
+- Interested in solving problems & building real-world solutions  
+- Dreaming big: building a tech startup in the next 4–5 years  
+- Based in Rajshahi, Bangladesh
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- C, C++  
+- C, C++, Java, JavaScript 
 - Python  
 - Data Structures & Algorithms  
 - AI & Machine Learning (beginner level)  
@@ -43,7 +42,7 @@
 
 ---
 
-## 🚧 Currently Working On
+## Currently Working On
 
 - Problem-solving on Codeforces & LeetCode  
 - Building beginner-level projects in Python  
@@ -51,16 +50,15 @@
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🍽 I code better after eating biriyani  
-- 🐱 I talk to ChatGPT like a mentor 😄  
-- 💻 Sometimes I debug just to understand life!  
-- 🌌 Dream job? Working on AI that controls robots!
+- I talk to ChatGpt, Gemini, Claude like a mentor 
+- Sometimes I debug just to understand life!  
+- Dream job? Working on AI that controls robots!
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
@@ -73,7 +71,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tusher-ProX&show_icons=true&theme=tokyonight&border_radius=10" width="49%" />
@@ -82,7 +80,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tusher-ProX&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
@@ -90,22 +88,14 @@
 
 ---
 
-## 🧠 Inspirational GIF
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
-
-## 📫 Reach Me
+## Reach Me
 
 - 📧 Email:  tusherperonal2004@gmail.com
 - 💼 LinkedIn:  https://www.linkedin.com/in/tusher-ahmed-910492371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
-## 💬 Favorite Quote
+## Favorite Quote
 
 > _“Success is not final, failure is not fatal: It is the courage to continue that counts.”_  
 > — **Winston Churchill**
